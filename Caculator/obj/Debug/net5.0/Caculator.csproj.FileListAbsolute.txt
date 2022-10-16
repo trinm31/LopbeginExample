@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/bin/Debug/net5.0/Caculator.deps.json
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/bin/Debug/net5.0/Caculator.runtimeconfig.json
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/bin/Debug/net5.0/Caculator.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/bin/Debug/net5.0/Caculator.dll
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/bin/Debug/net5.0/ref/Caculator.dll
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/bin/Debug/net5.0/Caculator.pdb
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.dll
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/ref/Caculator.dll
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.pdb
+/Users/tringuyen/RiderProjects/ConsoleAppBeginner/Caculator/obj/Debug/net5.0/Caculator.genruntimeconfig.cache
